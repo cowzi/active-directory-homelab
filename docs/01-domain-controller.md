@@ -18,7 +18,7 @@ I've configured the DC by getting started with AD DS (Active Directory Domain Se
 ## Screenshots
 
 ### Server Manager - AD DS Role Active
-![AD DS Green](../screenshots/phase2/server-manager-adds.png)
+![AD DS Green](/docs/screenshots/phase2/server-manager-adds.png)
 
 ### Active Directory Users and Computers
-![AD UC Open] (../screenshots/phase2/aduc-open.png)
+![AD UC Open](/docs/screenshots/phase2/aduc-open.png)
